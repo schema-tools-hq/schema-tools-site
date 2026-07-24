@@ -1,8 +1,13 @@
 # Support — Assets Exporter for Jira Service Management
 
+## Support portal
+
+Raise a request in our support portal (no account required):
+**https://privaterelay-team-ual6ku3b.atlassian.net/servicedesk/customer/portals**
+
 ## Contact us
 
-Email **support@sixwiki.com** — we aim to respond within one business day.
+Prefer email? **support@sixwiki.com** — we aim to respond within one business day.
 
 To speed up diagnosis, please include:
 
