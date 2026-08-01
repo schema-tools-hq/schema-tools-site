@@ -17,7 +17,7 @@ the Sprint field. It does not modify any Jira data.
 ## What the app stores
 
 Computed per-sprint summaries for closed sprints (issue keys, category flags,
-timestamps, change authors, totals) are cached in Forge app storage, hosted by
+timestamps, change-author account IDs — never display names — and totals) are cached in Forge app storage, hosted by
 Atlassian, to speed up repeat views. No data is sent to the vendor or any
 third party. Uninstalling the app removes its storage per Atlassian's Forge
 data lifecycle.
@@ -25,8 +25,9 @@ data lifecycle.
 ## Personal data
 
 The app displays the names of users who changed sprint scope, as recorded by
-Jira in issue histories. This data stays inside your Atlassian site. The
-vendor has no access to it.
+Jira in issue histories; names are resolved at viewing time and are not
+stored — only Atlassian account IDs are cached. This data stays inside your
+Atlassian site. The vendor has no access to it.
 
 ## Egress
 
