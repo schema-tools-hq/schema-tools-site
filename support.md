@@ -1,4 +1,4 @@
-# Support — Assets Exporter for Jira Service Management
+# Support — Schema Tools apps
 
 ## Support portal
 

@@ -2,7 +2,7 @@
 
 ## Security posture
 
-Assets Exporter runs entirely on Atlassian Forge. There are no vendor-operated
+Schema Tools apps (Assets Exporter for JSM, Sprint Scope Change & Scope Creep) run entirely on Atlassian Forge. There are no vendor-operated
 servers, no data egress outside Atlassian, no stored credentials or tokens, and
 the vendor never receives or processes customer data. Encryption at rest and in
 transit is provided by the Atlassian platform.
@@ -35,6 +35,7 @@ We follow Atlassian's Marketplace incident guidelines
 
 ## Data handling
 
-See the [privacy policy](privacy.html). Summary: End-User Data is read from
-Assets and written to a Jira attachment inside the customer's own Atlassian
-instance; transient export job state lives in Forge storage and nowhere else.
+Per-app privacy policies: [Assets Exporter](privacy.html), [Sprint Scope
+Change & Scope Creep](sprint-scope/privacy.html). In both apps all data stays
+inside the customer's own Atlassian instance; only transient job state or
+computed summaries live in Forge storage, nowhere else.
