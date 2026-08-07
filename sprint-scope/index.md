@@ -1,4 +1,4 @@
-# Sprint Scope Change & Scope Creep — Documentation
+# ScopePulse — Sprint Scope Change Tracking for Jira — Documentation
 
 A Jira dashboard gadget that shows how each sprint's scope changed after it
 started: what the team committed to, what was added mid-sprint, what was
@@ -29,7 +29,7 @@ the Sprint field's change history:
 ## Getting started
 
 1. Install the app from the Atlassian Marketplace.
-2. Open any Jira dashboard → **Add gadget** → search for “Sprint Scope Change”.
+2. Open any Jira dashboard → **Add gadget** → search for “ScopePulse”.
 3. In the gadget settings, pick a **board**, the number of sprints to show,
    and units (auto uses story points when the board has estimates).
 4. Save. Closed sprints are cached, so subsequent loads are fast.

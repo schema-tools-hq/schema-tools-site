@@ -1,9 +1,10 @@
-# End User License Agreement — Sprint Scope Change & Scope Creep
+# End User License Agreement — ScopePulse — Sprint Scope Change Tracking for Jira
 
 **Effective date: 1 August 2026 · Vendor: Schema Tools ("we")**
 
 This agreement is between you (the customer installing the app) and Schema
-Tools, and governs use of the app "Sprint Scope Change & Scope Creep" (the
+Tools, and governs use of the app "ScopePulse — Sprint Scope Change Tracking
+for Jira" (the
 "App"). It supplements the Atlassian Marketplace Terms of Use, which also
 apply to your purchase.
 

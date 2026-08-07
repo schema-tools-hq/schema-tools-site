@@ -1,10 +1,11 @@
-# Privacy Policy — Sprint Scope Change & Scope Creep
+# Privacy Policy — ScopePulse — Sprint Scope Change Tracking for Jira
 
 **Effective date: 1 August 2026 · Vendor: Schema Tools**
 
 ## Summary
 
-Sprint Scope Change & Scope Creep runs entirely on Atlassian Forge, inside
+ScopePulse — Sprint Scope Change Tracking for Jira runs entirely on Atlassian
+Forge, inside
 Atlassian's infrastructure. **We do not operate any servers, and your data
 never leaves Atlassian.**
 
